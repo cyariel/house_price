@@ -2,6 +2,7 @@
 房价预测
 
 一、过程分析
+
 1. 读取相关数据
 2. 数据分析及处理
 （1）通过对业务的理解，选取比较重要的元素进行分析处理
@@ -12,6 +13,7 @@
 （1）处理变量间的线性关系Lasso
 （2）单个预测模型效果不好，考虑堆叠模型
 （3）ElasticNet、KernelRidge、GradientBoostingRegressor、XGBRegressor
+
 二、画图
 1. 散点图matplotlib.pyplot scatter：展示面积与房价的关系
 2. 直方图seaborn.distplot:房价分布
