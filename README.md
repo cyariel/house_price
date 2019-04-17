@@ -19,3 +19,7 @@
 2. 直方图seaborn.distplot:房价分布
 3. 箱型图seaborn.boxplot:房屋质量等级对房价的影响；建造年份对房价影响
 4. 热图seaborn.heatmap:各元素间的相关性
+
+三、文件说明
+
+1. 建模文件快速打开链接：https://nbviewer.jupyter.org/github/cyariel/house_price/blob/master/house%20price.ipynb
